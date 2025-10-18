@@ -7,21 +7,21 @@ A collection of my verified data analytics and data science certifications.
 ---
 
 ## 🧠 IBM Data Science Professional Certificate
-![IBM Certificate](ibm_data_science_certificate.jpg)
+![IBM Certificate](ibm_data_science_certificate)
 **Issuer:** IBM (via Coursera)  
 **Skills:** Python, SQL, Data Visualization, Machine Learning, Statistics
 
 ---
 
 ## 🐍 LUMS Python for Beginners
-![LUMS Certificate](lums_python_certificate.jpg)
+![LUMS Certificate](lums_python_certificate)
 **Issuer:** Lahore University of Management Sciences (LUMS)  
 **Skills:** Python Fundamentals, Logic, Data Types, Control Flow
 
 ---
 
 ## 📊 Alex the Analyst Data Analyst Bootcamp *(In Progress)*
-![Alex Bootcamp](alex_the_analyst_bootcamp_in_progress.jpg)
+![Alex Bootcamp](alex_the_analyst_bootcamp_in_progress)
 **Issuer:** Alex the Analyst  
 **Focus Areas:** Power BI, SQL, Excel, Python, Real-World Data Cleaning Projects
 
